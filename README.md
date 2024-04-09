@@ -1,5 +1,5 @@
 # Car Base Board
-A STM32F411 Base Board for rpobot car projects.
+A STM32F411 Base Board for robot car projects.
 
 * Platform: STM32
 * Board: STM32F411CEU6 (BlackPill)
