@@ -1,4 +1,4 @@
-# CarBaseBoard
+# Car Base Board
 A STM32F411 Base Board for rpobot car projects.
 
 * Platform: STM32
