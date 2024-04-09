@@ -10,7 +10,7 @@ A STM32F411 Base Board for rpobot car projects.
 ## Scope.
 Jump start your ROBOT CAR project with the <B>Car Base Board</B>.  The board provides a patch-wire friendly (flexible) base for the low-cost WeAct Studios' BlackPill v3.1 USB Stick board. The BlackPill is not included, however this low-cost board is available from popular retailers.  The board includes power components and ports for eleven external devices.  
 
-The board provides **ports** for these external devices:
+The board includes **ports** for these external devices:
 - L298N Dual Motor Control Board
 - PC9685 Sensor Board
 - Ultrasonic (SR-HC04/05) board
@@ -40,6 +40,3 @@ To learn more, [click this future link]() to visit the <B>Applying Microcontroll
 
 A copy of MicoPython firmware (version 1.20) resides on the GitHub site. [Link](https://GitHub.com/kwinter745321/STM32F411BaseBoard/tree/main/Firmware).  
 
-
-## Acquiring the Car Base Board.
-To learn more, [click this future link]() to visit the <B>Applying Microcontroller Solutions</B> store at Tindie.
