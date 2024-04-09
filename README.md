@@ -41,5 +41,5 @@ To learn more, [click this future link]() to visit the <B>Applying Microcontroll
 A copy of MicoPython firmware (version 1.20) resides on the GitHub site. [Link](https://GitHub.com/kwinter745321/STM32F411BaseBoard/tree/main/Firmware).  
 
 
-## Acquiring the STM32F411 Base Board.
-To learn more, [click this link](https://www.tindie.com/products/aiy745321/stm32f411-base-board/) to visit the <B>Applying Microcontroller Solutions</B> store at Tindie.
+## Acquiring the Car Base Board.
+To learn more, [click this future link]() to visit the <B>Applying Microcontroller Solutions</B> store at Tindie.
