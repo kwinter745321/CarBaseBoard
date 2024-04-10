@@ -41,7 +41,7 @@ This GitHub site includes simple MicroPython examples.
 The board is compatible with popular Integrated Development Environments (IDE).  The board is well suited to creating projects in MicroPython. [Future YouTube Video]()
 
 ### Power Management
-During development the BlackPill board is powered from a USB-C cable to a desktop computer.  An external battery will provide power to the high volt components and for the five volt devices via a onboard regulator.  Power from the battery is controlled by an ON/OFF switch.
+During development the BlackPill board is powered from a USB-C cable to a desktop computer.  An external battery could provide power to the high volt components and for the five volt devices via a onboard regulator.  Power from the battery is controlled by an ON/OFF switch.
 
 The diagram below suggests the power management capable with this board.
 ![](PowerDiagram.jpg)
