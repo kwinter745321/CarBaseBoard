@@ -10,8 +10,8 @@ A STM32F411 Base Board for robot car projects.
 ## Scope.
 Jump start your robot car project with the <B>Car Base Board</B>.  The board provides a patch-wire friendly (flexible) base for the low-cost WeAct Studios' BlackPill v3.1 USB Stick board. The BlackPill is not included, However the low-cost BlackPill is available from popular retailers.  
 
-The board includes power components and ports for eleven external devices.  
-Includes **wiring ports** for these external device boards:
+The board includes power components, a User Button, and LEDs.  
+It includes **wiring ports** for these thirteen external devices:
 <div align="left">
     <table >
      <tr>
@@ -39,6 +39,14 @@ This GitHub site includes simple MicroPython examples.
 ![](Board_image.jpg)
 
 The board is compatible with popular Integrated Development Environments (IDE).  The board is well suited to creating projects in MicroPython. [Future YouTube Video]()
+
+### Power Management
+During development the BlackPill board is powered from a USB-C cable to a desktop computer.  An external battery will provide power to the high volt components and for the five volt devices via a onboard regulator.  Power from the battery is controlled by an ON/OFF switch.
+
+The diagram below suggests the power management capable with this board.
+![](PowerDiagram.jpg)
+
+For Autonomous operation, battery power is supplied to the BlackPill via the USB-A Power Port.
 
 ## Acquiring the Car Base Board.
 To learn more, [click this future link]() to visit the <B>Applying Microcontroller Solutions</B> store at Tindie.
