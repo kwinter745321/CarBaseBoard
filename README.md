@@ -1,5 +1,5 @@
 # Car Base Board
-A STM32F411 Base Board for robot car projects.
+A printed circuit board (board) using the BlackPill microcontroller as a base platform for robot car projects.
 
 * Platform: STM32
 * Board: STM32F411CEU6 (BlackPill)
@@ -8,7 +8,7 @@ A STM32F411 Base Board for robot car projects.
 * MicroPython 1.20
 
 ## Scope.
-Jump start your robot car project with the <B>Car Base Board</B>.  The board provides a patch-wire friendly (flexible) base for the low-cost WeAct Studios' BlackPill v3.1 USB Stick board. The BlackPill is not included, However the low-cost BlackPill is available from popular retailers.  
+Jump start your robot car project with the <B>Car Base Board</B>.  The board provides a patch-wire friendly (flexible) base for the low-cost WeAct Studios' BlackPill v3.1 USB Stick board. The BlackPill, the devices, wiring and battry are not included, However the low-cost BlackPill and these popular devices are available from popular retailers.  
 
 The board includes power components, a User Button, and LEDs.  
 It includes **wiring ports** for these thirteen external devices:
