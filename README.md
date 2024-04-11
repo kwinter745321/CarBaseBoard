@@ -11,7 +11,7 @@ A printed circuit board (board) using the BlackPill microcontroller as a base pl
 Jump start your robot car project with the <B>Car Base Board</B>.  The board provides a patch-wire friendly (flexible) base for the low-cost WeAct Studios' BlackPill v3.1 USB Stick board. The BlackPill, the devices, wiring and battry are not included, However the low-cost BlackPill and these popular devices are available from popular retailers.  
 
 The board includes power components, a User Button, and LEDs.  
-It includes **wiring ports** for these external devices:
+It includes wiring for these external devices:
 <div align="left">
     <table >
     <tr>
@@ -49,7 +49,7 @@ The board is compatible with popular Integrated Development Environments (IDE). 
 ### Power Management
 During development the BlackPill board is powered from a USB-C cable to a desktop computer.  An external battery could provide power to the high volt components and for the five volt devices via a onboard regulator.  Power from the battery is controlled by an ON/OFF switch.
 
-The diagram below suggests the power management capable with this board.
+The diagram below suggests the power management possible with this board.
 ![](PowerDiagram.jpg)
 
 For Autonomous operation, battery power is supplied to the BlackPill via the USB-A Power Port.
