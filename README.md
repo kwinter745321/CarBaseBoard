@@ -11,24 +11,30 @@ A printed circuit board (board) using the BlackPill microcontroller as a base pl
 Jump start your robot car project with the <B>Car Base Board</B>.  The board provides a patch-wire friendly (flexible) base for the low-cost WeAct Studios' BlackPill v3.1 USB Stick board. The BlackPill, the devices, wiring and battry are not included, However the low-cost BlackPill and these popular devices are available from popular retailers.  
 
 The board includes power components, a User Button, and LEDs.  
-It includes **wiring ports** for these thirteen external devices:
+It includes **wiring ports** for these external devices:
 <div align="left">
     <table >
+    <tr>
+        <td><b>Control</b></td>
+        <td><b>Monitor</b></td>
+        <td><b>Communicate</b></td>
+    </tr>
      <tr>
         <td>
         &#x2022; L298N Dual Motor Control</br>
-        &#x2022; PC9685 Sensor</br>
-        &#x2022; Ultrasonic (SR-HC04/05)</br>
+        &#x2022; PC9685 Sensor (6v servos)</br>
+        &#x2022; (2x) Servos (5v servos)</br>
         </td>
         <td>
+        &#x2022; Ultrasonic (SR-HC04/05)</br>
         &#x2022; (3x) Infrared Obs. Tracker</br>
         &#x2022; (2x) Slotted optical “Speed”</br>
-        &#x2022; (2x) Servos (SG90S servos)</br>
-         </td>
+        </td>
         <td>
-        &#x2022; UART (Bluetooth)</br>
+        &#x2022; UART port (Bluetooth)</br>
         &#x2022; Infrared Receiver (IR1838)</br>
-        &#x2022; OLED (SSD1306)</br>
+        &#x2022; OLED port (SSD1306)</br>
+         &#x2022; NRF24 port</br>
         </td>
      </tr>
     </table>
