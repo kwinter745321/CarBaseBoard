@@ -78,10 +78,12 @@ BlackPill from a port on the PCB. In this manner everything is ultimately powere
 ## Hardware Details
 The PCB was designed to use “generic” external devices/boards for easier upgrading/replacement.  The layout of the headers and ports was designed to distribute wiring to significantly reduce clutter (no rats nest of wires).  Also the design ensures there is a pathway to get power to all components via batteries.  Finally, the design allows the builder to choose their preferred wireless communication device.
 
-All components (the PCB and optional external devices) are self-contained and accessed via male headers. There should be no need to solder any wire nor drill holes for any parts.
+All components (the PCB and optional external devices) are self-contained and accessed via male headers. There should be no need to solder any wire nor drill holes for any parts.  
+
+A kit with components to get you stated is available at Tindie: [click this link](https://www.tindie.com/products/aiy745321/robotcarcomponents-ackermann/)
 
 ## Acquiring the Car Base Board.
-To learn more, [click this future link]() to visit the <B>Applying Microcontroller Solutions</B> store at Tindie.
+To learn more, [click this link](https://www.tindie.com/products/aiy745321/car-base-board/) to visit the <B>Applying Microcontroller Solutions</B> store at Tindie.
 
 ## Acquiring the <B>BlackPill</B> (STM32F411) from WeAct Studios.
 [Link to GitHub web site](https://GitHub.com/WeActStudio/WeActStudio.MiniSTM32F4x1)
