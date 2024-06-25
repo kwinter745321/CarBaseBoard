@@ -6,3 +6,8 @@ A MicroPython demo application for the Car Base Board.
 * Copyright (C) 2024 KW Services.
 * MIT License
 * MicroPython 1.20
+
+The below demo shows the PCB being used in project to build a
+working robot car using the Robot Car Components product and a kit from Hiwonder.
+
+[link to a YouTube demo](https://www.youtube.com/watch?v=j6ZnRsQyT84)
